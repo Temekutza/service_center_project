@@ -4,6 +4,8 @@ from crud.devices import *
 from crud.repairs import *
 from utils.export import *
 
+print("Первая неделя практики — изменения внесены")
+
 def menu():
     while True:
         print("\n=== Сервисный центр ===")
